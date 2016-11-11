@@ -8,6 +8,8 @@ public class AppMain {
 		System.out.println("Hello, World!");
 		System.out.println("[수정1] 안녕하세요!");
         System.out.println("[modify2] Web_Git modify");
+        
+        System.out.println("새로운 기능 추가할꺼예요~~");
 		
 	} // end main()
 
