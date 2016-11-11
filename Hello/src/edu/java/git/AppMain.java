@@ -7,6 +7,7 @@ public class AppMain {
 		
 		System.out.println("Hello, World!");
 		System.out.println("[수정1] 안녕하세요!");
+        System.out.println("[modify2] Web_Git modify");
 		
 	} // end main()
 
