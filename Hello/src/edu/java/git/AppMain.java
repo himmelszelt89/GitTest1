@@ -6,7 +6,7 @@ public class AppMain {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Hello, World!");
-		System.out.println("[¼öÁ¤1] ¾È³çÇÏ¼¼¿ä!");
+		System.out.println("[ìˆ˜ì •1] ì•ˆë…•í•˜ì„¸ìš”!");
 		
 	} // end main()
 
