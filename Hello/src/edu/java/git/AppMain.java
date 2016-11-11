@@ -6,6 +6,7 @@ public class AppMain {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Hello, World!");
+		System.out.println("[수정1] 안녕하세요!");
 		
 	} // end main()
 
